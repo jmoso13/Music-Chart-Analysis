@@ -1,4 +1,4 @@
-A Jupyter Notebook recording data analysis on Hype Machine and it's effect on artist exposure and SoundCloud performance.
+A Jupyter Notebook recording data analysis for Hype Machine and it's effect on artist exposure and SoundCloud performance.
 
 ONGOING, first commit Sunday May 7, 2017: Steps 1 and 2 complete.
 TODO: PCA Analysis, unsupervised clustering (K-Means), SoundCloud scoring, regression
